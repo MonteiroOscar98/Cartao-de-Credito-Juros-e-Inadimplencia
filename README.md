@@ -6,9 +6,9 @@ Extração de dados através de API do Banco Central e Análise dos dados refere
 <br>
 Fonte de dados:
 <br>
-[SGS - Sistema Gerenciador de Séries Temporais - Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
+SGS - Sistema Gerenciador de Séries Temporais - Banco Central(https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 <br>
-[Sobre o Portal do Banco Central](https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
+Sobre o Portal do Banco Central(https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
 <br>
 <br>
 <b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Seaborn Requests, BeautifulSoup, json.
