@@ -36,3 +36,27 @@ Sobre o Portal do Banco Central(https://dadosabertos.bcb.gov.br/pages/sobre-o-po
 <br>
 Resultados (Dados Desde 01/03/2011):
 <br>
+<br>
+![1](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/1.png)
+<br>
+<br>
+![2](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/2.png)
+<br>
+<br>
+![3](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/3.png)
+<br>
+<br>
+![4](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/4.png)
+<br>
+<br>
+![5](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/5.png)
+<br>
+<br>
+![6](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/6.png)
+<br>
+<br>
+![7](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/7.png)
+<br>
+<br>
+![8](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/8.png)
+
