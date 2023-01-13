@@ -1,14 +1,8 @@
-# Cartão de crédito
+# Cartão de Crédito - Taxas de Juros e Inadimplência
+Extração de dados através de API do Banco Central e Análise dos dados referente a:
 <br>
-Taxa média de juros das operações de crédito com recursos livres
-<br>
-Inadimplência da carteira de crédito com recursos livres
-<br>
-<br>
-Extração de dados através de API do Banco Central e Análise dos dados referente a Taxa média de juros e Inadimplência das operações de crédito com recursos livres
-# Reservas-Internacionais-Brasil
-O objetivo deste projeto é coletar dados das APIs abertas do Banco Central do Brasil, preparar e analisar os dados usando Python.
-<br>
+* Taxa média de juros das operações de crédito com recursos livres
+* Inadimplência da carteira de crédito com recursos livres
 <br>
 Fonte de dados:
 <br>
@@ -33,7 +27,7 @@ Fonte de dados:
 <b>Tarefa 4:</b> Análise e representação dos conjuntos de dados processados.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Reservas Internacionais - Brasil]()
+<b>Jupyter Notebook:</b> [Cartão de Crédito - Taxas de Juros e Inadimplência]()
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
