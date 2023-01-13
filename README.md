@@ -27,7 +27,7 @@ Sobre o Portal do Banco Central(https://dadosabertos.bcb.gov.br/pages/sobre-o-po
 <b>Tarefa 4:</b> Análise e representação dos conjuntos de dados processados.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Cartão de Crédito - Taxas de Juros e Inadimplência]()
+<b>Jupyter Notebook:</b> [Cartão de Crédito - Taxas de Juros e Inadimplência](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/Taxa_M%C3%A9dia_de_Juros_das_Operac%C3%B5es_de_Cr%C3%A9dito.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
