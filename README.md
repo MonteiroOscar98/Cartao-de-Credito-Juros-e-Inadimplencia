@@ -6,7 +6,7 @@ Extração de dados através de API do Banco Central e Análise dos dados refere
 <br>
 Fonte de dados:
 <br>
-API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
+[SGS - Sistema Gerenciador de Séries Temporais - Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 <br>
 [Sobre o Portal do Banco Central](https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
 <br>
@@ -31,7 +31,7 @@ API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Cent
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
-<b>LinkedIn:</b> [Oscar Monteiro](https://www.linkedin.com/in/oscarmonteiro98/)
+[<b>LinkedIn:</b>](https://www.linkedin.com/in/oscarmonteiro98/)
 <br>
 <br>
 Resultados (Dados Desde 01/03/2011):
