@@ -31,7 +31,7 @@ Fonte de dados:
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
-[<b>LinkedIn:</b>](https://www.linkedin.com/in/oscarmonteiro98/)
+<b>LinkedIn:</b>(https://www.linkedin.com/in/oscarmonteiro98/)
 <br>
 <br>
 Resultados (Dados Desde 01/03/2011):
