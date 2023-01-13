@@ -6,7 +6,7 @@ Extração de dados através de API do Banco Central e Análise dos dados refere
 <br>
 Fonte de dados:
 <br>
-API Banco Central - [Portal Brasileiro de Dados Abertos do Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)
+API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 <br>
 [Sobre o Portal do Banco Central](https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
 <br>
