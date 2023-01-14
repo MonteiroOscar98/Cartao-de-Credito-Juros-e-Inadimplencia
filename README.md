@@ -11,7 +11,6 @@ Fonte de dados:
 <br>
 
 [Sobre o Portal do Banco Central](https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
-
 <br>
 <br>
 <b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Seaborn Requests, BeautifulSoup, json.
