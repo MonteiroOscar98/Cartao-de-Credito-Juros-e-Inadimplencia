@@ -87,4 +87,6 @@ Como podemos interpretar os valores que ρ pode assumir?
 * ρ = 0,0 a 0,3 (positivo ou negativo): não possui correlação.
 Nos casos analisados podemos notar a correlações fortes, ou seja:
 <br>
-Quanto mais devedores inadimplentes, maiores as taxas de juros dos credores. Quanto menos devedores inadimplentes, menores as taxas de juros dos credores.
+Quanto mais devedores inadimplentes, maiores as taxas de juros dos credores. 
+<br>
+Quanto menos devedores inadimplentes, menores as taxas de juros dos credores.
