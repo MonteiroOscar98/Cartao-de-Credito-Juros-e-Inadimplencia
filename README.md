@@ -6,8 +6,10 @@ Extração de dados através de API do Banco Central e Análise dos dados refere
 <br>
 Fonte de dados:
 <br>
+
 SGS - Sistema Gerenciador de Séries Temporais - Banco Central(https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 <br>
+
 Sobre o Portal do Banco Central(https://dadosabertos.bcb.gov.br/pages/sobre-o-portal)
 <br>
 <br>
@@ -27,17 +29,19 @@ Sobre o Portal do Banco Central(https://dadosabertos.bcb.gov.br/pages/sobre-o-po
 <b>Tarefa 4:</b> Análise e representação dos conjuntos de dados processados.
 <br>
 <br>
+
 <b>Jupyter Notebook:</b> [Cartão de Crédito - Taxas de Juros e Inadimplência](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/Taxa_M%C3%A9dia_de_Juros_das_Operac%C3%B5es_de_Cr%C3%A9dito.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
+
 <b>LinkedIn:</b>[https://www.linkedin.com/in/oscarmonteiro98/]
 <br>
 <br>
 Resultados (Dados Desde 01/03/2011):
 <br>
 <br>
-![1](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/1.png)
+
 
 ![1](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/1.png)
 <br>
