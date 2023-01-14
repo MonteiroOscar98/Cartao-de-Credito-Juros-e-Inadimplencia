@@ -82,9 +82,4 @@ Como podemos interpretar os valores que ρ pode assumir?
 * ρ = 0,5 a 0,7 (positivo ou negativo): correlação moderada;
 * ρ = 0,3 a 0,5 (positivo ou negativo): correlação fraca;
 * ρ = 0,0 a 0,3 (positivo ou negativo): não possui correlação.
-<br>
-Nos casos analisados podemos notar a correlações fortes, ou seja:
-<br>
-Quanto mais devedores inadimplentes, maiores as taxas de juros. 
-<br>
-Quanto menos devedores inadimplentes, menores as taxas de juros.
+
