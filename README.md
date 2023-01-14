@@ -38,6 +38,7 @@ Resultados (Dados Desde 01/03/2011):
 <br>
 <br>
 ![1](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/1.png)
+
 ![1](https://github.com/MonteiroOscar98/Cartao-de-Credito-Juros-e-Inadimplencia/blob/main/README_files/1.png)
 <br>
 <br>
